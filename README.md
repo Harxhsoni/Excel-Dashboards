@@ -12,12 +12,12 @@ Welcome to my Excel Dashboards Repository! This collection features various dash
 
 **Highlights:** Expense categories, income vs. expenses visualization, profitability trends.
 
-3. **Customer Insights Dashboard**
+**3. Customer Insights Dashboard**
 **Description:** Provides an in-depth look at customer behavior and demographics.
 
 **Highlights:** Customer segmentation, purchase patterns, demographic analysis.
 
-4. **Inventory Management Dashboard**
+**4. Inventory Management Dashboard**
 **Description:** Helps in managing and tracking inventory levels, orders, and stock.
 
 **Highlights:** Stock levels, reorder points, supplier performance.
