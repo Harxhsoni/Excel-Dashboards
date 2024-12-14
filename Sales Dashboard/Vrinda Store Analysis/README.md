@@ -4,23 +4,23 @@ Welcome to the Vrinda Store Analysis Report repository! This project is part of 
 **Dashboard Overview**
 The Vrinda Store Analysis Report provides insightful visualizations and analysis of ecommerce sales, helping to understand the performance better. The main areas of analysis include:
 
-**Sales by Genders**
+*Sales by Genders**
 
-**Sales by Channels**
+*Sales by Channels**
 
-**Sales by Age/Gender Group**
+*Sales by Age/Gender Group**
 
-**Order Status**
+*Order Status**
 
-**Top 5 States of Sales**
+*Top 5 States of Sales*
 
 **Slicers for Detailed Analysis:**
 
-**Month**
+**Month*
 
-**Category**
+**Category*
 
-**Channel**
+**Channel*
 
 **Key Features**
 **1. Sales by Genders**
